@@ -7830,6 +7830,7 @@ textarea.form-control-lg {
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  background:url(../assets/pexels-photo-261985.jpg)
 }
 
 .bg-black {
@@ -11272,4 +11273,33 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+
+/* about page */
+
+#about {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  font-size: 18pt; 
+}
+
+#aboutImg {
+  margin-top: 10vh;
+  margin-bottom: 12vh;
+
+}
+/* item1 */
+.item1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin-bottom: 10rem;
 }
