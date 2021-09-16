@@ -11299,7 +11299,7 @@ textarea.form-control-lg {
   display: flex !important;
   flex-direction: row !important;
   margin-top: 5rem !important;
-  margin-left: 5rem !important;
-  margin-right: 5rem !important;
+  margin-left: 10% !important;
+  margin-right: 10% !important;
   margin-bottom: 10rem !important;
 }
